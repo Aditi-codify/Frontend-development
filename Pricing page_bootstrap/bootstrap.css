@@ -1,0 +1,11 @@
+.boxes{
+    display: flex;
+    flex-direction: row;    
+    justify-content: space-evenly;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
